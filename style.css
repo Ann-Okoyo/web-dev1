@@ -1,0 +1,717 @@
+.ann2 ul li{
+    display: inline-block;
+    list-style: none;
+    word-spacing: 2em;
+    font-size: 20px;
+
+}
+.ann3 ul li{
+    display: inline-block;
+    list-style: none;
+    font-size: 20px;
+    
+
+}
+.ann4{
+    float: right;
+    
+
+}
+.annie{
+    color: red;
+}
+
+.sumi{
+    display: flex;
+}
+.fix{
+    color: red;
+}
+.homie{
+    color: red;
+}
+.p-text{
+    padding-bottom: 40%;
+}
+.ann1{
+    display: flex;
+    gap: 25em;
+
+}
+    
+.omg{
+    background-image: url(/bg.png);
+    background-size:cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+}
+    
+
+   
+
+.ann9{
+    margin-bottom: 700px;
+}
+.ann6{
+    font-size: 80px;
+}
+.ann8{
+    margin-left: 20%;
+}
+.cute{
+    /* padding-bottom: -72%; */
+}
+.ann11{
+    text-align: center;
+    font-size: 310%;
+}
+.ann12{
+    display: flex;
+    /* background-color: white; */
+
+    
+ 
+}
+.ann13{
+    width: 30%;
+    height: 40%;
+    padding-bottom: 20%;
+}
+.ann17{
+    width:40% ;
+    height:40% ;
+    margin-top: 60px;
+}
+body{
+    background-color: whitesmoke;
+    overflow-x: hidden;
+}
+.thefirst{
+    justify-items: left;
+
+    border-radius: 2%;
+}
+.ann14{
+    
+}
+.univ{
+    width: 30%;
+    height: 50%;
+    /* justify-items: center;
+    margin-right: 220px; */
+}
+.best{
+    display: flex;
+}
+.univ{
+    width: 80%;
+    height: 80%;
+    
+
+
+}
+.ann18{
+    text-decoration-color: black;
+    background-color: red;
+}
+.miss{
+    width: 80%;
+    height:80%;
+    background-image:linear-gradient(to bottom,lightblue,blue);
+    border-radius: 30%;
+
+    
+}
+.ann15{
+    display: flex;
+}
+.ann14{
+    display: flex;
+}
+.world{
+    width: 80%;
+    height: 80%;
+}
+.ann21{
+    text-decoration: black;
+    background-color: red;
+}
+.ann22{
+    text-decoration: black;
+    background-color: red;
+}
+.girl{
+    text-align: center;
+    font-size: 40px;
+}
+.shee{
+    gap: 4em;
+}
+.jon{
+    color:black;
+    margin-left: 40px;
+    font-size: 30px;
+}
+.lady10{
+    width: 60%;
+    height:50%;
+    transform: rotate(320deg);
+}
+.mambo{
+    display: flex;
+
+}
+.lady15{
+    transform: rotate(320deg);
+}
+.lady5{
+    transform: rotate(320deg);
+}
+.lady2{
+    transform: rotate(310deg);
+
+}
+.lady{
+    background-color: white;
+    margin-right: 40px;
+
+
+}
+.lady4{
+    background-color: white;
+
+/* margin-left: 30px; */
+}
+.lady8{
+    background-color: white;
+    
+    margin-left: 30px;
+}
+.lady13{
+    background-color: white;
+    margin-left: 30px;
+}
+.mwanza2{
+    width: 200px;
+    height: 40%;
+    transform: rotate(330deg);
+    margin-right: 90px;
+}
+.jon2{
+    width: 60%;
+    width: 40%;
+    margin-left: 250px;
+    transform: rotate(310deg);
+    margin-top: 40px;
+}
+    
+
+.whole{
+    display: flex;
+}
+.musa2{
+    width: 90%;
+    height: 50%;
+    transform: rotate(330deg);
+    margin-left: 150px;
+    margin-top: 40px;
+}
+.bee3{
+    transform: rotate(330deg);
+}
+.shal{
+    margin-left:350px ;
+    margin-top: 40px;
+}
+.musa3{
+    margin-left:150px ;
+    margin-top: 40px;
+}
+.shal1{
+    background-color: white;
+    margin-left: -40px;
+}
+.fine{
+    background-color: white;
+}
+.poa{
+    background-color: white;
+    width:70%;
+    height: 50%;
+}
+/* .mwanza1{
+    background-color: white;
+    margin-left: 40px;
+} */
+.fine{
+    background-color: white;
+}
+.mani{
+    text-align: center;
+}
+.redit{
+    display: flex;
+}
+.mother2{
+    display: flex;
+}
+.doit{
+    display: flex;
+}
+.kerry{
+    text-align: center;
+}
+.pink{
+    margin-right: 10%;
+}
+.secondlast{
+    display: flex;
+}
+.footer{
+    padding: 1.0rem;
+    min-width: 12.0rem;
+
+}
+footer{
+    width: 100%;
+    /* position: absolute; */
+    background: linear-gradient(to right);
+    padding: 8px 0px 10px;
+    border-top-left-radius:50px ;
+    font-size: 13px;
+    line-height: 15px;
+    color:white;
+    background-color:red;
+    
+    
+}
+.row{
+    width: 85%;
+    margin:auto;
+    display: flex;
+    flex-wrap:wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.col{
+    /* flex-basis: 25%;
+    padding: 10px;
+     */
+
+
+}
+.katey{
+    width: 20%;
+    margin-bottom: 70px;
+}
+.harry ul li{
+    display: flex;
+    display: inline-block;
+    justify-content: space-between;
+     padding: 10px 20px;
+    /* padding-left:10% ;
+    padding-right: 10%;  */
+    list-style: none;
+}
+.jon3 ul li{
+    display: flex;
+    display: inline-block;
+    justify-content: space-between;
+    padding: 10px 20px;
+    color: white;
+
+
+}
+.fish{
+    text-align: center;
+}  
+.becky{
+    text-align: center;
+    margin-bottom: 100px;
+    background-color: red;
+    margin-left: 250px;
+    margin-right: 240px;
+    border-radius: 75px;
+    
+}
+.TECH{
+    position: relative;
+    left: 19PX;
+    box-shadow: 0 12px 0 rgba(0,0,0,24),0 17px 50px 0 rgba(0,0,0,24);
+    border-radius: 40px;
+    margin-top: 100px;
+    border: solid black;
+}
+.done{
+    display: flex;
+    /* gap: 40rem; */
+    margin-bottom: 20%;
+}
+.ji{
+    /* color: red;
+    text-decoration: black;
+    text-align: center;
+    margin-bottom: 40px; */
+    margin-top: 70px;
+}
+.pink{
+    margin-right: 40%;
+    font-size: 70%;
+}
+.eliza{
+    background-color: red;
+    text-decoration: black;
+}
+.masian{
+    background-color: red;
+    text-decoration: black;
+}
+.doit{
+    justify-content: space-between;
+    display: flex;
+
+}
+.cate{
+    margin-left: 40px;
+    font-size: 70%;
+}
+.picture8{
+    margin-left: 80px;
+}
+.done{
+    position: relative;
+    left: 19px;
+    box-shadow: 0 10px 0 rgba(red, green, blue, alpha);
+    border-radius: 30px;
+    display: flex;
+    gap: 35rem;
+
+}
+.mori{
+    text-align: center;
+    color: red;
+}
+.gody{
+    border-radius: 50%;
+}
+.lady13{
+    background-color: white;
+}
+.univ{
+    width: 80%;
+    height:80%;
+    background-image:linear-gradient(to bottom,lightblue,blue);
+    border-radius: 30%;
+
+    
+}
+.world{
+    width: 80%;
+    height:80%;
+    background-image:linear-gradient(to bottom,lightblue,blue);
+    border-radius: 30%;
+
+
+}
+.p-text{
+    margin: top -1px;
+}
+.lady2{
+    transform: rotate(340deg);
+}
+.mani{
+     margin-left: 550px;
+    color:black;
+    background-color: red;
+}
+.smarter{
+    color: red;
+}
+.odd{
+    width: 50px;
+    height: 50px;
+}
+.odd1{
+    width: 50px;
+    height: 50px;
+}
+.odd2{
+    width: 50px;
+    height: 50px;
+
+}
+.odd3{
+    width: 50px;
+    height: 50px;
+
+}
+.tetris ul{
+    color: black;
+    margin-bottom: 30px;
+}
+.buf1{
+    
+    display: flex;
+    list-style: none;
+}
+.buf2{
+    width: 500px;
+     height: 500px; 
+     padding-left: 150px;
+     
+    background-color: white; 
+    
+}
+.buf3{
+    width: 250px;
+    height: 250px;
+    
+
+}
+.kate ul li{
+    display: flex;
+    list-style: none;
+
+}
+.kate a {
+    text-decoration: none;
+    padding: 1px 2px ;
+
+}
+.terry{
+    display: flex;
+}
+.sher {
+    display: flex;
+    list-style: none;
+    
+
+}
+.siz{
+    display: flex;
+    list-style: none;
+    
+}
+.sar{
+    display: flex;
+}
+
+    
+
+.goro{
+    width: 250px;
+    height: 250px;
+    
+
+    
+}
+.kame{
+ width: 250px;
+ height: 250px;
+ 
+    
+
+}
+.char{
+    display: flex;
+}
+body{
+    background-color: whitesmoke;
+   
+
+}
+
+.gubo{
+    color: #f66666;
+}
+.we{
+    color: #f66666;
+}
+.smart{
+    color: #f66666;
+    margin-left: 30%;
+}
+.se{
+    border-radius: 10%;
+    color: #f66666;
+}
+.rabit{
+    color: #f66666;
+}
+.leg{
+    background-color: #f66666;
+    text-decoration: white;
+
+}
+.sera{
+    text-decoration: #eff6;
+}
+.cherry{
+    text-align: center;
+}
+.omar3{
+    width: 250px;
+    height: 250px;
+    transform: rotate(320deg);
+}
+.omar7{
+    transform: rotate(320deg);
+    width:250px ;
+    height: 250px;;
+}
+.omarme{
+    width: 250px;;
+    height: 250px;;
+    transform: rotate(320deg);
+
+    
+
+}
+.omar15{
+    transform: rotate(320deg);
+    width:250px;
+    height:250px;
+}
+.success{
+    display: flex;
+    justify-content: space-evenly;
+}
+.chanty{
+    background-color: white;
+    
+    
+    gap: 40px;
+
+
+
+}
+.omar5{
+    background-color: white;
+}
+.omar10{
+    background-color: white;
+    
+}
+.omar13{
+    background-color: white;
+
+
+}
+.material-symbols-outlined{
+    padding-left: 40px;
+
+}
+.view{
+   font-size: large;
+}
+.footer{
+    display: flex;
+}
+.footer{
+    padding: 1.0rem;
+    min-width: 12.0rem;
+
+}
+.bruce2{
+    width: 100%;
+    position: absolute;
+    background: linear-gradient(to right);
+    padding: 8px 0px 10px;
+    border-top-left-radius:50px ;
+    font-size: 13px;
+    line-height: 15px;
+    color:white;
+    background-color:#f66666;
+    
+    
+}
+.row{
+    width: 85%;
+    margin:auto;
+    display: flex;
+    flex-wrap:wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.col{
+   margin-bottom: 80px; 
+   width:20% ;
+
+
+}
+/* .katey{
+    width: 20%;
+    margin-bottom: 70px; */
+
+.harry ul li{
+    display: flex;
+    display: inline-block;
+    justify-content: space-between;
+     padding: 10px 20px;
+    /* padding-left:10% ;
+    padding-right: 10%;  */
+    list-style: none;
+}
+.jon3 ul li{
+    /* display: flex;
+    display: inline-block;
+    justify-content: space-between;
+    padding: 10px 20px;
+    color: black; */
+list-style: none;
+position: relative;
+left: 380px;
+color: black;
+}
+.jon{
+    color: white;
+    text-align: center;
+}
+.se{
+    font-size: 80%;
+}
+.img7{
+    
+
+    width: 70px;
+    height: 60px;
+}
+.img8{
+    width: 30px;
+    height: 30px;
+    margin-bottom: 30px;
+}
+.img9{
+    width:30px ;
+    height: 30px;
+    margin-bottom: 30px;
+}
+.img10{
+    width:30px ;
+    height: 30px;
+    margin-bottom: 30px;
+
+}
+.sher{
+    color: black;
+}
+.harry{
+    color: black;
+}
+.sher ul{
+    color: black;
+}
+
+.signUp{
+    position: relative;
+    border-radius: 30px;
+    color: rgb(255, 0, 85);
+    left: 400px;
+}
+@media(max-width:800px) {
+    
+}
+
+
+
